@@ -1,1 +1,2 @@
-# cod-deployment-with-help-of-s3-bucket-
+# code-deploy-udemy
+This repository contains all the resources used in the Udemy course.
